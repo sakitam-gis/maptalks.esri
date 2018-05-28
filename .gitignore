@@ -4,3 +4,4 @@ yarn.lock
 *.gz
 dist/*.js
 /dist
+.idea

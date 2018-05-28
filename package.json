@@ -22,8 +22,8 @@
     "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-es2015": "^6.24.1",
     "gulp": "^3.9.1",
-    "maptalks": "^0.36.0",
-    "maptalks-build-helpers": "^0.4.2",
+    "maptalks": "^0.40.2",
+    "maptalks-build-helpers": "^0.5.0",
     "zousan": "^2.3.3"
   }
 }
